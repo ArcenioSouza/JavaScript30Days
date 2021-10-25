@@ -11,4 +11,4 @@ São 30 atividades disponibilizadas como desafio para treinar os conceitos de ja
 [] - Trabalhar em equipe;
 [] - Ensinar e aprender através dos desafios...
 
-**Desafios disponíveis em:**[https://javascript30.com/](https://javascript30.com/) 
+**Desafios disponíveis em:** [https://javascript30.com/](https://javascript30.com/) 

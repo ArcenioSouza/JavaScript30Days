@@ -1,0 +1,38 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+.container{
+   width: 100%;
+   min-height: 100vh;
+   background-image: url("https://cdn.pixabay.com/photo/2018/12/21/20/17/music-3888684_960_720.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.wrapper-sounds{
+   display: flex;
+   flex-wrap: wrap;
+   width: 400px;
+   position: absolute;
+   right: 190px;
+   top: 300px;
+}
+
+.sounds{
+   width: 90px;
+   height: 90px;
+   border: 2px solid #000;
+   margin: 5px;
+   padding: 5px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.sounds p {
+   font-size: 0.8rem;
+   margin-top: 5px;
+}
