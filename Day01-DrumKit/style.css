@@ -29,10 +29,17 @@
    display: flex;
    justify-content: center;
    align-items: center;
-   flex-direction: column;
+   flex-direction: column;transition: all .07s;
+}
+
+.playing{
+   border: 2px solid red;
+   box-shadow: 0 0 10px red;
+   transform: scale(1.1);
 }
 
 .sounds p {
    font-size: 0.8rem;
    margin-top: 5px;
 }
+
